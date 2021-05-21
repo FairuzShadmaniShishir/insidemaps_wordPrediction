@@ -8,4 +8,4 @@ scikit-learn==0.21.2
 pandas==0.24.2
 xlrd==1.0.0
 flask_cors==3.0.8
-tensorflow==2.0.0-rc1
+tensorflow==2.5.0rc0
